@@ -19,6 +19,7 @@
 - Python
 - Pandas
 - PostgreSQL
+- sqlalchemy
 - Tableau public
 - dash
 - Power point
